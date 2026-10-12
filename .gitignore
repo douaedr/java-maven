@@ -1,0 +1,15 @@
+
+# Added by repository cleanup
+.idea/
+.vs/
+*.suo
+*.user
+node_modules/
+target/
+bin/Debug/
+bin/Release/
+obj/
+*.class
+.env
+!.env.example
+token.txt
